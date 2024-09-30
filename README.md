@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm currently student on CIFP Pau Casesnoves
 
 <!--
 **Al3x-Garcia/Al3x-Garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
